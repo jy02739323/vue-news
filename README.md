@@ -18,7 +18,7 @@
 克隆项目地址并下载（需要已安装 [git](https://git-scm.com/downloads) ）,点击预览[查看效果](https://jy02739323.github.io/vue-news/common/#/index/travel)
 
 ```
-    git clone git@github.com:E-GreeHe/vue-app-demo.git
+    git@github.com:jy02739323/vue-news.git
 ```
 建立 通过```npm```安装本地服务第三方模块,需要安装[nodejs](https://nodejs.org/)环境
 
